@@ -16,6 +16,6 @@ npm start
 ```
 
 Your browser should open automatically, showing a map of all video arcades in Japan, using OpenStreetMap
-data fetched on Feb 7, 2023.
+data fetched using [Overpass Turbo](https://overpass-turbo.eu/s/1r4V) on Feb 7, 2023.
 
 ![img.png](img.png)
