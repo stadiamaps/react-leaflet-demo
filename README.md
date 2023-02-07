@@ -17,3 +17,5 @@ npm start
 
 Your browser should open automatically, showing a map of all video arcades in Japan, using OpenStreetMap
 data fetched on Feb 7, 2023.
+
+![img.png](img.png)
