@@ -1,9 +1,10 @@
 import './App.css'
 import 'leaflet/dist/leaflet.css'
-import {MapContainer, TileLayer, Marker, Popup} from 'react-leaflet'
+import {MapContainer, Marker, Popup} from 'react-leaflet'
 import L from 'leaflet'
 import MarkerClusterGroup from "react-leaflet-cluster";
-
+import {MapLibreTileLayer} from "./MapLibreTileLayer.tsx";
+import arcades from './arcades.json'
 
 delete L.Icon.Default.prototype._getIconUrl;
 
@@ -13,31 +14,36 @@ L.Icon.Default.mergeOptions({
   shadowUrl: require('leaflet/dist/images/marker-shadow.png')
 });
 
-
 function App() {
   return (
     <div className="App">
-      <MapContainer className="MainMap" center={[51.505, -0.09]} zoom={4} scrollWheelZoom={true}>
-        <TileLayer
+      <MapContainer
+        className="MainMap"
+        center={[38, 139.69222]}
+        zoom={6}
+        minZoom={3}
+        maxZoom={19}
+        maxBounds={[[-85.06, -180], [85.06, 180]]}
+        scrollWheelZoom={true}>
+        <MapLibreTileLayer
           attribution='&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'
-          url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png"
+          url="https://tiles.stadiamaps.com/styles/alidade_smooth_dark.json"
         />
         <MarkerClusterGroup>
-          <Marker position={[49.8397, 24.0297]}>
-            <Popup>
-              Popup 1
-            </Popup>
-          </Marker>
-          <Marker position={[52.2297, 21.0122]}>
-            <Popup>
-              Popup 2
-            </Popup>
-          </Marker>
-          <Marker position={[51.5074, -0.0901]}>
-            <Popup>
-              Popup 3
-            </Popup>
-          </Marker>
+          {arcades.features.map((arcade, index) => (
+            <Marker
+              key={arcade.properties['@id']}
+              position={[arcade.geometry.coordinates[1], arcade.geometry.coordinates[0]]}
+            >
+              <Popup>
+                {arcade.properties.name}
+                <br />
+                {arcade.properties['name:en']}
+
+
+              </Popup>
+            </Marker>
+            ))}
         </MarkerClusterGroup>
       </MapContainer>
     </div>

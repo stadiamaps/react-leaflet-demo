@@ -1,0 +1,5821 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-02-07T09:21:34Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344125432",
+        "leisure": "amusement_arcade",
+        "name": "千葉レジャーランド",
+        "name:en": "Chiba Leisure Land",
+        "sport": "bowls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1167298,
+          35.7986974
+        ]
+      },
+      "id": "node/344125432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/821386686",
+        "check_date": "2023-01-02",
+        "description": "ゲームセンター",
+        "leisure": "amusement_arcade",
+        "name": "Sonic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9020543,
+          35.7844318
+        ]
+      },
+      "id": "node/821386686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1309062098",
+        "leisure": "amusement_arcade",
+        "name": "Urban Square",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5559254,
+          31.5898092
+        ]
+      },
+      "id": "node/1309062098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1356125980",
+        "disused:amenity": "game_centre",
+        "leisure": "amusement_arcade",
+        "name": "レアマトリX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9317662,
+          35.819934
+        ]
+      },
+      "id": "node/1356125980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1608597731",
+        "leisure": "amusement_arcade",
+        "name": "SEGA",
+        "name:en": "SEGA",
+        "name:ja": "セガ",
+        "name:ja_rm": "Sega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7418836,
+          35.7008617
+        ]
+      },
+      "id": "node/1608597731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1669670165",
+        "leisure": "amusement_arcade",
+        "name": "CLUB SEGA",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6977964,
+          35.6606391
+        ]
+      },
+      "id": "node/1669670165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1681588662",
+        "leisure": "amusement_arcade",
+        "name": "ハイテクランド SEGA EST",
+        "name:en": "SEGA EST",
+        "name:es": "SEGA EST",
+        "name:ja": "ハイテクランド",
+        "source": "survey;2012/03/18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7025426,
+          35.6600441
+        ]
+      },
+      "id": "node/1681588662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1739357833",
+        "leisure": "amusement_arcade",
+        "name": "SEGA WORLD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3242592,
+          35.7446699
+        ]
+      },
+      "id": "node/1739357833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1883427728",
+        "leisure": "amusement_arcade",
+        "name": "フロンティア 小作店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3021904,
+          35.7783429
+        ]
+      },
+      "id": "node/1883427728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1883487674",
+        "leisure": "amusement_arcade",
+        "name": "ハイテクランドセガ",
+        "name:en": "High-tech land SEGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9105617,
+          35.7791899
+        ]
+      },
+      "id": "node/1883487674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1900408945",
+        "leisure": "amusement_arcade",
+        "source": "image;Bing,2007-03-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6855758,
+          35.7778521
+        ]
+      },
+      "id": "node/1900408945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1915127703",
+        "leisure": "amusement_arcade",
+        "name": "GIGO 秋葉原1号館"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7710243,
+          35.6987113
+        ]
+      },
+      "id": "node/1915127703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1915268184",
+        "addr:block_number": "10",
+        "addr:city": "千代田区",
+        "addr:housenumber": "5",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "101-0021",
+        "addr:province": "東京都",
+        "addr:quarter": "外神田",
+        "leisure": "amusement_arcade",
+        "level": "0;3",
+        "name": "Hey",
+        "name:en": "Hirose Entertainment Yard",
+        "name:ja": "Hirose Entertainment Yard",
+        "operator": "株式会社タイトー",
+        "phone": "+81-3-5209-2030",
+        "website": "https://www.taito.co.jp/store/00001703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7708377,
+          35.6990461
+        ]
+      },
+      "id": "node/1915268184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1923592445",
+        "brand": "アドアーズ",
+        "brand:en": "Adores",
+        "brand:ja": "アドアーズ",
+        "brand:wikidata": "Q54843532",
+        "brand:wikipedia": "ja:アドアーズ",
+        "leisure": "amusement_arcade",
+        "name": "アドアーズ",
+        "name:en": "Adores",
+        "name:ja": "アドアーズ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1163159,
+          35.6109834
+        ]
+      },
+      "id": "node/1923592445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1923592468",
+        "branch": "千葉店",
+        "brand": "ラッキー",
+        "leisure": "amusement_arcade",
+        "name": "ラッキーフェリシダ",
+        "name:en": "LUCKY FELICIDAD",
+        "name:ja": "ラッキーフェリシダ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1182094,
+          35.6102954
+        ]
+      },
+      "id": "node/1923592468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1928575946",
+        "leisure": "amusement_arcade",
+        "name": "Aivis",
+        "source": "Bing, Aug/2006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6000561,
+          34.8321733
+        ]
+      },
+      "id": "node/1928575946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978813606",
+        "leisure": "amusement_arcade",
+        "name": "GiGO 米子",
+        "website": "https://tempo.gendagigo.jp/am/yonago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.3221608,
+          35.4597992
+        ]
+      },
+      "id": "node/1978813606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2087963744",
+        "leisure": "amusement_arcade",
+        "name": "プラット"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.782172,
+          35.489508
+        ]
+      },
+      "id": "node/2087963744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109008159",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.1690841,
+          34.9112939
+        ]
+      },
+      "id": "node/2109008159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2127045737",
+        "branch": "和光店",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション",
+        "name:ja-Hira": "たいとーすてーしょん",
+        "name:ja-Latn": "Taitō Sutēshon",
+        "opening_hours": "Mo-Su,PH 10:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6138085,
+          35.7866367
+        ]
+      },
+      "id": "node/2127045737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2130040686",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.443176,
+          35.79149
+        ]
+      },
+      "id": "node/2130040686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2183120265",
+        "leisure": "amusement_arcade",
+        "name": "GiGO 新居浜"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.278147,
+          33.964116
+        ]
+      },
+      "id": "node/2183120265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197500913",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "brand:wikipedia": "ja:タイトー",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション",
+        "source": "image,2013-03;Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7013793,
+          35.693289
+        ]
+      },
+      "id": "node/2197500913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2204415910",
+        "leisure": "amusement_arcade",
+        "name": "快活CLUB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3596424,
+          35.6644772
+        ]
+      },
+      "id": "node/2204415910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2218464025",
+        "leisure": "amusement_arcade",
+        "name": "SAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3705476,
+          35.6759634
+        ]
+      },
+      "id": "node/2218464025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2247611123",
+        "fixme": "ゲームセンター",
+        "leisure": "amusement_arcade",
+        "name": "サン アミューズ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.872872,
+          31.399841
+        ]
+      },
+      "id": "node/2247611123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2273425631",
+        "leisure": "amusement_arcade",
+        "name": "まあじゃん ひかり"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6146235,
+          35.6716662
+        ]
+      },
+      "id": "node/2273425631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2280501076",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "brand:wikipedia": "ja:タイトー",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7022343,
+          35.6898664
+        ]
+      },
+      "id": "node/2280501076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293271676",
+        "branch": "川越店",
+        "leisure": "amusement_arcade",
+        "name": "アミューズランド モナコ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.483098,
+          35.9132637
+        ]
+      },
+      "id": "node/2293271676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293447277",
+        "leisure": "amusement_arcade",
+        "name": "namco",
+        "name:en": "namco",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5043865,
+          34.6630328
+        ]
+      },
+      "id": "node/2293447277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293447295",
+        "leisure": "amusement_arcade",
+        "name": "アテナ",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5049668,
+          34.6630123
+        ]
+      },
+      "id": "node/2293447295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293447410",
+        "leisure": "amusement_arcade",
+        "name": "メモリアルロード きらめき",
+        "name:en": "Memorial Road Kirameki",
+        "source": "Bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504816,
+          34.6602011
+        ]
+      },
+      "id": "node/2293447410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296860546",
+        "addr:block_number": "3",
+        "addr:city": "大阪市",
+        "addr:housenumber": "15",
+        "addr:neighbourhood": "2丁目",
+        "addr:postcode": "556-0011",
+        "addr:province": "大阪府",
+        "addr:quarter": "難波中",
+        "addr:suburb": "浪速区",
+        "branch": "難波アビオン",
+        "leisure": "amusement_arcade",
+        "level": "-1;0;1;2",
+        "name": "GiGO",
+        "operator": "株式会社GENDA GiGO Entertainment",
+        "phone": "+81-6-6645-7692",
+        "source": "local knowledge;survey;website",
+        "website": "https://tempo.gendagigo.jp/am/avion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5032503,
+          34.6627559
+        ]
+      },
+      "id": "node/2296860546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308950377",
+        "leisure": "amusement_arcade",
+        "name": "ABC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502242,
+          34.702795
+        ]
+      },
+      "id": "node/2308950377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2331413818",
+        "leisure": "amusement_arcade",
+        "name": "TAITO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9726479,
+          35.8613564
+        ]
+      },
+      "id": "node/2331413818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2332488205",
+        "leisure": "amusement_arcade",
+        "name": "エム",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5646904,
+          34.7352361
+        ]
+      },
+      "id": "node/2332488205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2403561341",
+        "leisure": "amusement_arcade",
+        "name": "SAM'S TOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699376,
+          35.529893
+        ]
+      },
+      "id": "node/2403561341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2426764256",
+        "leisure": "amusement_arcade",
+        "name": "AZ.Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.680744,
+          35.706434
+        ]
+      },
+      "id": "node/2426764256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2651213703",
+        "branch": "浜松店",
+        "brand": "アピナ",
+        "brand:en": "Apina",
+        "brand:ja": "アピナ",
+        "brand:wikidata": "Q55385192",
+        "leisure": "amusement_arcade",
+        "name": "アピナ",
+        "name:en": "Apina",
+        "name:ja": "アピナ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7079454,
+          34.7669873
+        ]
+      },
+      "id": "node/2651213703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2735677005",
+        "leisure": "amusement_arcade",
+        "name": "ゲームタウン西東京"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3179571,
+          35.7831908
+        ]
+      },
+      "id": "node/2735677005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2924130601",
+        "leisure": "amusement_arcade",
+        "name": "シルクハット八王子店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3384769,
+          35.6564149
+        ]
+      },
+      "id": "node/2924130601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2924130845",
+        "branch": "八王子店",
+        "brand": "アドアーズ",
+        "brand:en": "Adores",
+        "brand:ja": "アドアーズ",
+        "brand:wikidata": "Q54843532",
+        "brand:wikipedia": "ja:アドアーズ",
+        "leisure": "amusement_arcade",
+        "name": "アドアーズ",
+        "name:en": "Adores",
+        "name:ja": "アドアーズ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3386079,
+          35.6579498
+        ]
+      },
+      "id": "node/2924130845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2934986729",
+        "leisure": "amusement_arcade",
+        "name": "YAZワールド八王子みなみ野店",
+        "opening_hours": "10:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3289314,
+          35.6311557
+        ]
+      },
+      "id": "node/2934986729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3078486068",
+        "branch": "二俣川店",
+        "leisure": "amusement_arcade",
+        "level": "4",
+        "name": "パラダイスシティ",
+        "operator": "セガ",
+        "source": "survey",
+        "website": "https://segaplaza.jp/channel/store.php?store_id=5676&item_id=73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5319265,
+          35.4643627
+        ]
+      },
+      "id": "node/3078486068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3088721587",
+        "leisure": "amusement_arcade",
+        "name": "ゲームステーション キャメル",
+        "name:en": "Gamestation CAMEL",
+        "source": "survey;Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5579294,
+          35.4316299
+        ]
+      },
+      "id": "node/3088721587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3123975230",
+        "leisure": "amusement_arcade",
+        "name": "Game Fuji",
+        "name:ja": "Game Fuji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.98678,
+          35.698897
+        ]
+      },
+      "id": "node/3123975230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3279845496",
+        "leisure": "amusement_arcade",
+        "name": "WIN プレイステーション",
+        "source": "水戸中心商店街マップ14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.471846,
+          36.3746018
+        ]
+      },
+      "id": "node/3279845496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3282478207",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "サンゲームス",
+        "source": "survey, 2015-01-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4804966,
+          33.5358751
+        ]
+      },
+      "id": "node/3282478207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3298002961",
+        "fixme": "level=2",
+        "leisure": "amusement_arcade",
+        "name": "アクアワールド",
+        "name:en": "AQUA WORLD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.988474,
+          35.686655
+        ]
+      },
+      "id": "node/3298002961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3388749702",
+        "leisure": "amusement_arcade",
+        "name": "APINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6182109,
+          35.7050011
+        ]
+      },
+      "id": "node/3388749702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3437548383",
+        "branch": "船橋店",
+        "brand": "アドアーズ",
+        "brand:en": "Adores",
+        "brand:ja": "アドアーズ",
+        "brand:wikidata": "Q54843532",
+        "brand:wikipedia": "ja:アドアーズ",
+        "internet_access": "wlan",
+        "leisure": "amusement_arcade",
+        "name": "アドアーズ",
+        "name:en": "Adores",
+        "name:ja": "アドアーズ",
+        "operator": "アドアーズ株式会社",
+        "website": "https://www.adores.jp/tenpo/funabashi.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9844718,
+          35.7005818
+        ]
+      },
+      "id": "node/3437548383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3476039933",
+        "leisure": "amusement_arcade",
+        "name": "ゲームプラザセントラル八王子店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3382478,
+          35.6579945
+        ]
+      },
+      "id": "node/3476039933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3686513525",
+        "leisure": "amusement_arcade",
+        "name": "Vegagio",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.351917,
+          43.057247
+        ]
+      },
+      "id": "node/3686513525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3688648541",
+        "addr:city": "室蘭市",
+        "addr:postcode": "050-0075",
+        "addr:province": "北海道",
+        "addr:quarter": "中島本町",
+        "branch": "室蘭店",
+        "leisure": "amusement_arcade",
+        "name": "BIG BANG",
+        "name:ja": "BIG BANG",
+        "opening_hours": "Mo-Fr 10:00-24:00; Sa,Su,PH 09:00-24:00",
+        "source": "Muroran_ortho",
+        "website": "http://www.8-grp.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0144808,
+          42.3535346
+        ]
+      },
+      "id": "node/3688648541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3690992658",
+        "leisure": "amusement_arcade",
+        "name": "SEGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9022548,
+          35.1426792
+        ]
+      },
+      "id": "node/3690992658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3747832568",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "GREA",
+        "source": "survey, 2015-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9370003,
+          35.1674698
+        ]
+      },
+      "id": "node/3747832568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3783030227",
+        "leisure": "amusement_arcade",
+        "name": "ラウンドワン",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4978305,
+          35.3642171
+        ]
+      },
+      "id": "node/3783030227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3914316025",
+        "leisure": "amusement_arcade",
+        "name": "イミグランデ",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4546113,
+          35.4917131
+        ]
+      },
+      "id": "node/3914316025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3928333157",
+        "leisure": "amusement_arcade",
+        "name": "ロイヤルプラザ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9268532,
+          37.4976993
+        ]
+      },
+      "id": "node/3928333157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3977603523",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "プレイランド",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4571424,
+          35.4900825
+        ]
+      },
+      "id": "node/3977603523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069459648",
+        "description": "遊戯場",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "遊技場",
+        "name:en": "Yugijo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7706629,
+          35.7026007
+        ]
+      },
+      "id": "node/4069459648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069891607",
+        "brand": "アピナ",
+        "brand:en": "Apina",
+        "brand:ja": "アピナ",
+        "brand:wikidata": "Q55385192",
+        "brand:wikipedia": "ja:共和コーポレーション",
+        "leisure": "amusement_arcade",
+        "name": "アピナ",
+        "name:en": "Apina",
+        "name:ja": "アピナ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3381272,
+          35.5975283
+        ]
+      },
+      "id": "node/4069891607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4071143420",
+        "leisure": "amusement_arcade",
+        "name": "ビッグバン",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4606725,
+          35.4722545
+        ]
+      },
+      "id": "node/4071143420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4167164222",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "brand:wikipedia": "ja:タイトー",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4483434,
+          35.5425999
+        ]
+      },
+      "id": "node/4167164222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4167164256",
+        "brand": "アドアーズ",
+        "brand:en": "Adores",
+        "brand:ja": "アドアーズ",
+        "brand:wikidata": "Q54843532",
+        "brand:wikipedia": "ja:アドアーズ",
+        "leisure": "amusement_arcade",
+        "name": "アドアーズ",
+        "name:en": "Adores",
+        "name:ja": "アドアーズ",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4481284,
+          35.5427624
+        ]
+      },
+      "id": "node/4167164256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4235132662",
+        "leisure": "amusement_arcade",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0957748,
+          34.6409133
+        ]
+      },
+      "id": "node/4235132662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4374202105",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "GiGO",
+        "source": "survey 2015-08-27;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5630611,
+          34.6641061
+        ]
+      },
+      "id": "node/4374202105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4450660937",
+        "branch": "水戸店",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "セガ水戸",
+        "name:en": "Sega Mito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.474784,
+          36.3694576
+        ]
+      },
+      "id": "node/4450660937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4459519589",
+        "brand": "アドアーズ",
+        "brand:en": "Adores",
+        "brand:ja": "アドアーズ",
+        "brand:wikidata": "Q54843532",
+        "brand:wikipedia": "ja:アドアーズ",
+        "leisure": "amusement_arcade",
+        "level": "0;1;2",
+        "name": "アドアーズ",
+        "name:en": "Adores",
+        "name:ja": "アドアーズ",
+        "phone": "+81 3 3496 5856",
+        "website": "https://www.adores.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6982062,
+          35.6612413
+        ]
+      },
+      "id": "node/4459519589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462930002",
+        "leisure": "amusement_arcade",
+        "name": "ピタゴラス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1460693,
+          34.2523566
+        ]
+      },
+      "id": "node/4462930002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462937354",
+        "branch": "和歌山店",
+        "leisure": "amusement_arcade",
+        "name": "ラウンドワンスタジアム",
+        "name:en": "ROUND1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.186211,
+          34.1979265
+        ]
+      },
+      "id": "node/4462937354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462975726",
+        "leisure": "amusement_arcade",
+        "name": "YOU'S LAND",
+        "tourism_1": "game_center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1488201,
+          34.2763828
+        ]
+      },
+      "id": "node/4462975726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4520313134",
+        "leisure": "amusement_arcade",
+        "name": "THE 3RD PLANET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7411461,
+          35.0102025
+        ]
+      },
+      "id": "node/4520313134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4538596389",
+        "leisure": "amusement_arcade",
+        "name": "スーパーノバ仙台中山店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8288327,
+          38.2993184
+        ]
+      },
+      "id": "node/4538596389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4553422390",
+        "leisure": "amusement_arcade",
+        "level": "0;4",
+        "name": "セガ 秋葉原4号館",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7724439,
+          35.6980637
+        ]
+      },
+      "id": "node/4553422390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561715996",
+        "addr:block_number": "3",
+        "addr:city": "広島市",
+        "addr:housenumber": "11",
+        "addr:postcode": "730-0032",
+        "addr:province": "広島県",
+        "addr:quarter": "立町",
+        "addr:suburb": "中区",
+        "branch": "広島店",
+        "leisure": "amusement_arcade",
+        "name": "ラウンドワン",
+        "name:en": "ROUND1",
+        "name:ja": "ラウンドワン",
+        "note": "営業時間が複雑です。詳しいマッパーの方はもっと厳密な表記に修正をお願いします",
+        "opening_hours": "Mo 00:00-06:00,09:00-06:00; Tu-Th 10:00-06:00; Fr 10:00-24:00; Sa,Su 00:00-24:00; PH 00:00-24:00",
+        "website": "https://www.round1.co.jp/shop/tenpo/hiroshima-hiroshima.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4601166,
+          34.3937352
+        ]
+      },
+      "id": "node/4561715996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4691022889",
+        "leisure": "amusement_arcade",
+        "name": "高田馬場ゲーセンミカド",
+        "name:en": "Takadanobaba Game Centre Mikado",
+        "name:ja": "高田馬場ゲーセンミカド",
+        "opening_hours": "10:00-24:00",
+        "operator": "株式会社INH",
+        "website": "http://mi-ka-do.net/baba/",
+        "wikipedia": "ja:ミカド (ゲームセンター)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7034358,
+          35.7127016
+        ]
+      },
+      "id": "node/4691022889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4717783634",
+        "brand": "ナムコ",
+        "brand:en": "NAMCO",
+        "brand:ja": "ナムコ",
+        "brand:wikidata": "Q309996",
+        "brand:wikipedia": "ja:バンダイナムコアミューズメント",
+        "leisure": "amusement_arcade",
+        "name": "ナムコ",
+        "name:en": "NAMCO",
+        "name:ja": "ナムコ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5660607,
+          35.5182192
+        ]
+      },
+      "id": "node/4717783634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4801396949",
+        "leisure": "amusement_arcade",
+        "name": "UFOキャッチャー専門店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6250092,
+          35.4388467
+        ]
+      },
+      "id": "node/4801396949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4803484841",
+        "leisure": "amusement_arcade",
+        "name": "ピロピロ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6257863,
+          35.4395025
+        ]
+      },
+      "id": "node/4803484841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4803599561",
+        "leisure": "amusement_arcade",
+        "name": "namco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6303227,
+          35.4427574
+        ]
+      },
+      "id": "node/4803599561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4803599564",
+        "leisure": "amusement_arcade",
+        "name": "St. Tropez",
+        "name:ja": "サントロペ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6300509,
+          35.4427864
+        ]
+      },
+      "id": "node/4803599564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807760609",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "SEGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5111534,
+          34.6444165
+        ]
+      },
+      "id": "node/4807760609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4811257542",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "ENTERTAINMENT FIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5344087,
+          34.8040875
+        ]
+      },
+      "id": "node/4811257542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4836770335",
+        "branch": "行田店",
+        "leisure": "amusement_arcade",
+        "name": "エブリデイ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4626943,
+          36.1222034
+        ]
+      },
+      "id": "node/4836770335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4879583031",
+        "leisure": "amusement_arcade",
+        "name": "スポーツウェーブ鉄腕24 稲毛長沼店",
+        "name:en": "Sports Wave Tetsuwan 24 Inage Naganuma",
+        "name:ja": "スポーツウェーブ鉄腕24 稲毛長沼店",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1263502,
+          35.6617056
+        ]
+      },
+      "id": "node/4879583031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4905603599",
+        "leisure": "amusement_arcade",
+        "name": "NAMCOLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4913104,
+          34.8335275
+        ]
+      },
+      "id": "node/4905603599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907407544",
+        "leisure": "amusement_arcade",
+        "name": "Bb（ビィビィ）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4944372,
+          34.8228816
+        ]
+      },
+      "id": "node/4907407544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4914807571",
+        "leisure": "amusement_arcade",
+        "name": "ゲームイミグランデ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3615273,
+          35.439461
+        ]
+      },
+      "id": "node/4914807571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4957686538",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:セガ エンタテインメント",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7013644,
+          35.6951529
+        ]
+      },
+      "id": "node/4957686538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4987989062",
+        "leisure": "amusement_arcade",
+        "name": "RIBBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7275469,
+          35.7657513
+        ]
+      },
+      "id": "node/4987989062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5022231122",
+        "addr:block_number": "3",
+        "addr:city": "広島市",
+        "addr:housenumber": "5",
+        "addr:province": "広島県",
+        "addr:quarter": "本通",
+        "addr:suburb": "中区",
+        "branch": "広島本通店",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "brand:wikipedia": "ja:タイトー",
+        "internet_access": "wlan",
+        "leisure": "amusement_arcade",
+        "level": "0;1;2;3;4;5",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション",
+        "opening_hours": "10:00-24:00",
+        "website": "https://www.taito.co.jp/gc/store/00001938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4604001,
+          34.3928154
+        ]
+      },
+      "id": "node/5022231122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5031844949",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "ソユーゲームフィールド",
+        "name:ja": "ソユーゲームフィールド",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+81 235 68 1561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8367737,
+          38.8163581
+        ]
+      },
+      "id": "node/5031844949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5123631888",
+        "leisure": "amusement_arcade",
+        "level": "1",
+        "name": "UFO",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7804207,
+          35.7209017
+        ]
+      },
+      "id": "node/5123631888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5124057833",
+        "addr:block_number": "55",
+        "addr:city": "利府町",
+        "addr:county": "宮城郡",
+        "addr:housenumber": "11",
+        "addr:neighbourhood": "字新前谷地",
+        "addr:postcode": "981-0111",
+        "addr:province": "宮城県",
+        "addr:quarter": "加瀬",
+        "fax": "+81 22 349 0007",
+        "leisure": "amusement_arcade",
+        "name": "ゲームスーパーノヴァ",
+        "name:ja": "ゲームスーパーノヴァ",
+        "phone": "+81 22 352 1399",
+        "website": "http://www.supernova-web.com/sendai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9756544,
+          38.3280082
+        ]
+      },
+      "id": "node/5124057833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138773224",
+        "description": "ゲームセンター",
+        "leisure": "amusement_arcade",
+        "name": "SEGAワールド"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.959277,
+          35.0244225
+        ]
+      },
+      "id": "node/5138773224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5141050320",
+        "brand": "アドアーズ",
+        "brand:en": "Adores",
+        "brand:ja": "アドアーズ",
+        "brand:wikidata": "Q54843532",
+        "brand:wikipedia": "ja:アドアーズ",
+        "leisure": "amusement_arcade",
+        "level": "-1;0;1;2;3",
+        "name": "アドアーズ",
+        "name:en": "Adores",
+        "name:ja": "アドアーズ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7743455,
+          35.7100113
+        ]
+      },
+      "id": "node/5141050320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5141051822",
+        "leisure": "amusement_arcade",
+        "name": "Taito Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7743957,
+          35.7105536
+        ]
+      },
+      "id": "node/5141051822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5205810133",
+        "addr:block_number": "24",
+        "addr:city": "仙台市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "五丁目",
+        "addr:postcode": "982-0034",
+        "addr:province": "宮城県",
+        "addr:quarter": "西多賀",
+        "addr:suburb": "太白区",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8489969,
+          38.2192089
+        ]
+      },
+      "id": "node/5205810133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5285397821",
+        "leisure": "amusement_arcade",
+        "name": "ペニーポット 秋田店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1273198,
+          39.7164859
+        ]
+      },
+      "id": "node/5285397821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5291413150",
+        "branch": "阪急茨木",
+        "leisure": "amusement_arcade",
+        "name": "ゲームディーノ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5753226,
+          34.8174211
+        ]
+      },
+      "id": "node/5291413150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5293233771",
+        "leisure": "amusement_arcade",
+        "name": "ゲームセンター",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1492067,
+          34.2756903
+        ]
+      },
+      "id": "node/5293233771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5295380536",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "GAME INN FIRST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7748162,
+          35.7070156
+        ]
+      },
+      "id": "node/5295380536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5301524421",
+        "branch": "阪急茨木店",
+        "leisure": "amusement_arcade",
+        "name": "ジャンカラ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5764004,
+          34.8181109
+        ]
+      },
+      "id": "node/5301524421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5303915549",
+        "leisure": "amusement_arcade",
+        "name": "ファンタジープラザ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1088077,
+          39.7150549
+        ]
+      },
+      "id": "node/5303915549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5319926231",
+        "addr:block_number": "58",
+        "addr:city": "仙台市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "字斉兵衛",
+        "addr:postcode": "981-3111",
+        "addr:province": "宮城県",
+        "addr:quarter": "松森",
+        "addr:suburb": "泉区",
+        "leisure": "amusement_arcade",
+        "name": "ビーカム 松森店",
+        "opening_hours": "Mo-Su 10:00-00:00",
+        "operator": "ジンジャー",
+        "phone": "+81 22 393 5330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9099897,
+          38.3045265
+        ]
+      },
+      "id": "node/5319926231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5336219481",
+        "leisure": "amusement_arcade",
+        "level": "-1;0;1",
+        "name": "Sam's Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7741684,
+          35.7087969
+        ]
+      },
+      "id": "node/5336219481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5350733335",
+        "leisure": "amusement_arcade",
+        "name": "モーリーファンタジー"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4210303,
+          34.4858095
+        ]
+      },
+      "id": "node/5350733335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5374535180",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:セガ エンタテインメント",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.7715789,
+          35.3090901
+        ]
+      },
+      "id": "node/5374535180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5400775181",
+        "leisure": "amusement_arcade",
+        "level": "1",
+        "name": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.1724765,
+          36.6627908
+        ]
+      },
+      "id": "node/5400775181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5456545468",
+        "leisure": "amusement_arcade",
+        "name": "セガワールド"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7101288,
+          36.7412044
+        ]
+      },
+      "id": "node/5456545468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5468546327",
+        "leisure": "amusement_arcade",
+        "name": "TAITO Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.7192142,
+          35.1144317
+        ]
+      },
+      "id": "node/5468546327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5520541735",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション 府中くるる店",
+        "opening_hours": "Mo-Su 10:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4808979,
+          35.6715323
+        ]
+      },
+      "id": "node/5520541735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5533245321",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ",
+        "name:vi": "câu lạc bộ sega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5040677,
+          34.7030607
+        ]
+      },
+      "id": "node/5533245321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5577034008",
+        "branch": "横手南店",
+        "brand": "G3POROS",
+        "leisure": "amusement_arcade",
+        "name": "G3ポロス",
+        "name:en": "G3POROS",
+        "name:ja": "G3ポロス",
+        "opening_hours": "10:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5516431,
+          39.2947311
+        ]
+      },
+      "id": "node/5577034008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5580363514",
+        "branch": "神戸umieサウスモール",
+        "leisure": "amusement_arcade",
+        "name": "セガ",
+        "name:en": "Sega",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1830949,
+          34.6796154
+        ]
+      },
+      "id": "node/5580363514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5581879772",
+        "leisure": "amusement_arcade",
+        "name": "楽市楽座210トリアス店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4920228,
+          33.652904
+        ]
+      },
+      "id": "node/5581879772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5584442707",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "SEGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6507165,
+          34.7658072
+        ]
+      },
+      "id": "node/5584442707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5591550723",
+        "leisure": "amusement_arcade",
+        "name": "GEO若葉店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4109065,
+          35.9532983
+        ]
+      },
+      "id": "node/5591550723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5596005799",
+        "leisure": "amusement_arcade",
+        "name": "ミリアンパーク"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.357978,
+          35.4350484
+        ]
+      },
+      "id": "node/5596005799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5606556025",
+        "leisure": "amusement_arcade",
+        "name": "ハローズ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.329039,
+          35.5332878
+        ]
+      },
+      "id": "node/5606556025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5609111832",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.1274102,
+          36.2371018
+        ]
+      },
+      "id": "node/5609111832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5649326902",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:セガ エンタテインメント",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7539281,
+          35.7048979
+        ]
+      },
+      "id": "node/5649326902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5709221485",
+        "leisure": "amusement_arcade",
+        "name": "ゲームヴィクト盛岡"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1452239,
+          39.7037064
+        ]
+      },
+      "id": "node/5709221485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5714822695",
+        "leisure": "amusement_arcade",
+        "level": "0.5",
+        "name": "HALOS GARDEN",
+        "note": "中二階に存在、キッズ・アミューズメント"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4798537,
+          35.9345179
+        ]
+      },
+      "id": "node/5714822695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5738431674",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "BIG ECHO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5036096,
+          34.6666137
+        ]
+      },
+      "id": "node/5738431674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5745365754",
+        "leisure": "amusement_arcade",
+        "name": "サンゲームス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2728268,
+          31.7225172
+        ]
+      },
+      "id": "node/5745365754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5760263315",
+        "leisure": "amusement_arcade",
+        "name": "東京レジャーランド秋葉原2号店",
+        "name:ko": "도쿄 레저랜드 아키하바라 2호점",
+        "opening_hours": "Mo-Su 10:00-00:55",
+        "operator": "山崎屋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7718022,
+          35.700663
+        ]
+      },
+      "id": "node/5760263315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5762118421",
+        "leisure": "amusement_arcade",
+        "name": "SEGA",
+        "payment:cash": "yes",
+        "payment:icsf": "yes",
+        "start_date": "1998-06-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4717926,
+          35.7884329
+        ]
+      },
+      "id": "node/5762118421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5775252647",
+        "leisure": "amusement_arcade",
+        "name": "アドアーズ新習志野店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0142412,
+          35.6667408
+        ]
+      },
+      "id": "node/5775252647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5813719925",
+        "leisure": "amusement_arcade",
+        "name": "カラオケ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1378586,
+          36.0010938
+        ]
+      },
+      "id": "node/5813719925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5817443390",
+        "leisure": "amusement_arcade",
+        "name": "Sunny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9378323,
+          35.7909922
+        ]
+      },
+      "id": "node/5817443390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5817443394",
+        "leisure": "amusement_arcade",
+        "name": "Kikona",
+        "opening_hours:covid19": "off",
+        "was:name": "Silver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9376465,
+          35.7909336
+        ]
+      },
+      "id": "node/5817443394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5817811787",
+        "leisure": "amusement_arcade",
+        "name": "ビリヤードDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3934533,
+          36.002589
+        ]
+      },
+      "id": "node/5817811787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5828409196",
+        "leisure": "amusement_arcade",
+        "name": "樹林",
+        "note": "囲碁将棋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516365,
+          35.6676841
+        ]
+      },
+      "id": "node/5828409196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5837634533",
+        "leisure": "amusement_arcade",
+        "name": "パチンコ キング"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3935459,
+          35.95502
+        ]
+      },
+      "id": "node/5837634533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5842065958",
+        "leisure": "amusement_arcade",
+        "name": "パームトップスSEGA厚木"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3618685,
+          35.4391713
+        ]
+      },
+      "id": "node/5842065958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5871096300",
+        "leisure": "amusement_arcade",
+        "name": "PIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5325216,
+          35.3532561
+        ]
+      },
+      "id": "node/5871096300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5898524117",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:セガ エンタテインメント",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8639355,
+          35.6847423
+        ]
+      },
+      "id": "node/5898524117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5980840225",
+        "leisure": "amusement_arcade",
+        "level": "1",
+        "name": "Sega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9377303,
+          35.7913225
+        ]
+      },
+      "id": "node/5980840225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6006879273",
+        "leisure": "amusement_arcade",
+        "name": "プレイランドサーカス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1932185,
+          34.2299279
+        ]
+      },
+      "id": "node/6006879273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6011377718",
+        "leisure": "amusement_arcade",
+        "name": "AMUSEMENT TATSUMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8825745,
+          36.5604182
+        ]
+      },
+      "id": "node/6011377718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6033198049",
+        "leisure": "amusement_arcade",
+        "name": "ゲーム戦隊アマレンジャー"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8974565,
+          34.5992339
+        ]
+      },
+      "id": "node/6033198049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6041303498",
+        "leisure": "amusement_arcade",
+        "name": "セガワールド白河"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1944857,
+          37.1192112
+        ]
+      },
+      "id": "node/6041303498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6050994301",
+        "branch": "篠原店",
+        "leisure": "amusement_arcade",
+        "name": "アミューズメント・スポット"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.6271508,
+          34.6829513
+        ]
+      },
+      "id": "node/6050994301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6132396101",
+        "leisure": "amusement_arcade",
+        "name": "旭遊技場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.8073638,
+          35.6255993
+        ]
+      },
+      "id": "node/6132396101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6138055942",
+        "branch": "池袋",
+        "branch:en": "Ikebukuro",
+        "branch:ja": "池袋",
+        "leisure": "amusement_arcade",
+        "name": "ミカドゲーセン",
+        "name:en": "Mikado Game Center",
+        "name:ja": "ミカドゲーセン",
+        "opening_hours": "10:00-24:00",
+        "operator": "株式会社INH",
+        "website": "http://mi-ka-do.net/bukuro/",
+        "wikipedia": "ja:ミカド (ゲームセンター)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7135956,
+          35.7324136
+        ]
+      },
+      "id": "node/6138055942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6139862290",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "brand:wikipedia": "ja:タイトー",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4265568,
+          35.6233425
+        ]
+      },
+      "id": "node/6139862290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6167405837",
+        "leisure": "amusement_arcade",
+        "name": "セガ",
+        "name:en": "Sega",
+        "name:ja": "セガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.6159478,
+          36.5791869
+        ]
+      },
+      "id": "node/6167405837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6168025601",
+        "addr:block_number": "1",
+        "addr:city": "筑紫野市",
+        "addr:country": "JP",
+        "addr:neighbourhood": "434",
+        "addr:province": "福岡県",
+        "addr:quarter": "立明寺",
+        "alt_name": "イオンファンタジー",
+        "alt_name:en": "AEON Fantasy",
+        "branch": "筑紫野",
+        "branch:en": "Chikushino",
+        "leisure": "amusement_arcade",
+        "level": "3",
+        "name": "モーリーファンタジー",
+        "name:en": "Molly Fantasy",
+        "name:ja": "モーリーファンタジー",
+        "website": "https://www.aeonfantasy.co.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5253136,
+          33.4806917
+        ]
+      },
+      "id": "node/6168025601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6168094685",
+        "leisure": "amusement_arcade",
+        "name": "SEGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9174873,
+          34.6618888
+        ]
+      },
+      "id": "node/6168094685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6168545756",
+        "addr:block_number": "1",
+        "addr:city": "高松市",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "761-8012",
+        "addr:province": "香川県",
+        "addr:quarter": "香西本町",
+        "alt_name": "イオンファンタジー",
+        "alt_name:en": "AEON Fantasy",
+        "branch": "高松",
+        "branch:en": "Takamatsu",
+        "leisure": "amusement_arcade",
+        "name": "モーリーファンタジー",
+        "name:en": "Molly Fantasy",
+        "name:ja": "モーリーファンタジー",
+        "website": "https://www.aeonfantasy.co.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0040073,
+          34.3516298
+        ]
+      },
+      "id": "node/6168545756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6174366668",
+        "addr:city": "伊勢市",
+        "addr:neighbourhood": "538",
+        "addr:province": "三重県",
+        "addr:quarter": "小木町曽祢",
+        "branch": "伊勢",
+        "branch:en": "Ise",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "モーリーファンタジー",
+        "name:en": "Molly Fantasy",
+        "name:ja": "モーリーファンタジー"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.7217046,
+          34.5071081
+        ]
+      },
+      "id": "node/6174366668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6174447919",
+        "addr:block_number": "1",
+        "addr:city": "鈴鹿市",
+        "addr:country": "JP",
+        "addr:housenumber": "2",
+        "addr:neighbourhood": "4",
+        "addr:province": "三重県",
+        "addr:quarter": "庄野羽山",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "ナムコ",
+        "name:en": "Namco",
+        "name:ja": "ナムコ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.5320402,
+          34.8724955
+        ]
+      },
+      "id": "node/6174447919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6215501351",
+        "leisure": "amusement_arcade",
+        "name": "スペースファンタジー インフィニ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4958776,
+          40.6069774
+        ]
+      },
+      "id": "node/6215501351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6220778086",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:セガ エンタテインメント",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7537355,
+          35.7052761
+        ]
+      },
+      "id": "node/6220778086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6243051855",
+        "brand": "アドアーズ",
+        "brand:en": "Adores",
+        "brand:ja": "アドアーズ",
+        "brand:wikidata": "Q54843532",
+        "brand:wikipedia": "ja:アドアーズ",
+        "leisure": "amusement_arcade",
+        "name": "アドアーズ",
+        "name:en": "Adores",
+        "name:ja": "アドアーズ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6676945,
+          35.6609804
+        ]
+      },
+      "id": "node/6243051855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6297092223",
+        "leisure": "amusement_arcade",
+        "name": "SEGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.1863118,
+          34.4029931
+        ]
+      },
+      "id": "node/6297092223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6312688475",
+        "leisure": "amusement_arcade",
+        "name": "MG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.2591091,
+          34.4417025
+        ]
+      },
+      "id": "node/6312688475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6318208300",
+        "addr:block_number": "18",
+        "addr:city": "海老名市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "243-0432",
+        "addr:province": "神奈川県",
+        "addr:quarter": "中央",
+        "branch": "海老名ビナウォーク店",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "brand:wikipedia": "ja:タイトー",
+        "leisure": "amusement_arcade",
+        "level": "1",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション",
+        "opening_hours": "Mo-Su 10:00-00:00",
+        "phone": "+81 46-292-5160",
+        "source": "survey",
+        "website": "https://www.taito.co.jp/gc/store/00001748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3956589,
+          35.4522404
+        ]
+      },
+      "id": "node/6318208300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6332667388",
+        "leisure": "amusement_arcade",
+        "name": "アミューズメントパーク　ウエアハウス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9051099,
+          35.8401531
+        ]
+      },
+      "id": "node/6332667388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6361691016",
+        "addr:block_number": "4",
+        "addr:city": "海老名市",
+        "addr:housenumber": "31",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "243-0432",
+        "addr:province": "神奈川県",
+        "addr:quarter": "中央",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "セガ海老名",
+        "name:en": "SEGA",
+        "name:ja": "セガ海老名",
+        "phone": "+81 46-292-5812",
+        "source": "survey",
+        "start_date": "2019-03-26",
+        "website": "https://tempo.sega.jp/am/ebina/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3924931,
+          35.4514893
+        ]
+      },
+      "id": "node/6361691016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6362659613",
+        "leisure": "amusement_arcade",
+        "name": "PIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6333578,
+          35.5359636
+        ]
+      },
+      "id": "node/6362659613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6370276354",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:セガ エンタテインメント",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ",
+        "name:ja_kana": "セガ",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499466,
+          34.7260742
+        ]
+      },
+      "id": "node/6370276354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6382982889",
+        "branch": "多賀店",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "ジョイカム",
+        "operator": "プレビ株式会社"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6295552,
+          36.5536265
+        ]
+      },
+      "id": "node/6382982889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6388852865",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9414781,
+          34.8853418
+        ]
+      },
+      "id": "node/6388852865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6423523588",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "八王子N広場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2817887,
+          35.6428419
+        ]
+      },
+      "id": "node/6423523588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6428493922",
+        "branch": "豊田店",
+        "leisure": "amusement_arcade",
+        "name": "エムズパーク"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.1402902,
+          35.0565199
+        ]
+      },
+      "id": "node/6428493922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6442971230",
+        "leisure": "amusement_arcade",
+        "name": "ドラマ 瑞穂店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.356849,
+          35.7633203
+        ]
+      },
+      "id": "node/6442971230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6500518594",
+        "leisure": "amusement_arcade",
+        "name": "ウェアハウス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5958435,
+          35.9158088
+        ]
+      },
+      "id": "node/6500518594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6563011914",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:セガ エンタテインメント",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7923749,
+          35.7947501
+        ]
+      },
+      "id": "node/6563011914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6569059416",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7357062,
+          34.5297648
+        ]
+      },
+      "id": "node/6569059416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579722384",
+        "leisure": "amusement_arcade",
+        "name": "クレーンゲーム専門店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4823507,
+          35.9090566
+        ]
+      },
+      "id": "node/6579722384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579735698",
+        "leisure": "amusement_arcade",
+        "name": "GAME MAGMAX!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4824968,
+          35.9099459
+        ]
+      },
+      "id": "node/6579735698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6585208664",
+        "leisure": "amusement_arcade",
+        "name": "神奈川レジャーランド"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3428669,
+          35.4482142
+        ]
+      },
+      "id": "node/6585208664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6631063209",
+        "branch": "池袋2号館",
+        "branch:en": "Ikebukuro Store 2",
+        "branch:ja": "池袋2号館",
+        "leisure": "amusement_arcade",
+        "name": "GiGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7158191,
+          35.7301132
+        ]
+      },
+      "id": "node/6631063209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6631063210",
+        "addr:block_number": "14",
+        "addr:country": "JP",
+        "addr:housename": "Mixalive TOKYO",
+        "addr:housenumber": "3",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "170-0013",
+        "addr:province": "東京都",
+        "addr:quarter": "東池袋",
+        "addr:suburb": "豊島区",
+        "leisure": "amusement_arcade",
+        "name": "ADORES",
+        "name:en": "ADORES",
+        "name:ja": "アドアーズ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7148846,
+          35.7300098
+        ]
+      },
+      "id": "node/6631063210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6631063211",
+        "addr:block_number": "29",
+        "addr:country": "JP",
+        "addr:housename": "池袋ビル",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "170-0013",
+        "addr:province": "東京都",
+        "addr:quarter": "東池袋",
+        "addr:suburb": "豊島区",
+        "leisure": "amusement_arcade",
+        "level": "2;3",
+        "name": "St. Tropez",
+        "name:en": "St. Tropez",
+        "name:ja": "サントロペ池袋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7164531,
+          35.7304936
+        ]
+      },
+      "id": "node/6631063211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6631063212",
+        "branch": "池袋1号館",
+        "branch:en": "Ikebukuro Store 1",
+        "branch:ja": "池袋1号館",
+        "leisure": "amusement_arcade",
+        "level": "1;2;3;4",
+        "name": "GiGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7160579,
+          35.7299681
+        ]
+      },
+      "id": "node/6631063212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6631225911",
+        "leisure": "amusement_arcade",
+        "name": "ADORES",
+        "name:en": "ADORES",
+        "name:ja": "アドアーズ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7131693,
+          35.7317062
+        ]
+      },
+      "id": "node/6631225911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6657638108",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "Play Land 54 street 草加松原店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7978246,
+          35.8396565
+        ]
+      },
+      "id": "node/6657638108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6661636329",
+        "leisure": "amusement_arcade",
+        "name": "ディスコ",
+        "name:ja": "ディスコゲームセンター"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7764039,
+          35.7435931
+        ]
+      },
+      "id": "node/6661636329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6756080635",
+        "leisure": "amusement_arcade",
+        "name": "namco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.390583,
+          37.3890443
+        ]
+      },
+      "id": "node/6756080635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6780098277",
+        "leisure": "amusement_arcade",
+        "name": "TAITO STATION",
+        "name:en": "TAITO STATION",
+        "name:ja": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8230183,
+          35.7621799
+        ]
+      },
+      "id": "node/6780098277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6794463087",
+        "leisure": "amusement_arcade",
+        "name": "アドアース"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6656181,
+          35.7087635
+        ]
+      },
+      "id": "node/6794463087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6821551699",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8053042,
+          36.3126079
+        ]
+      },
+      "id": "node/6821551699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6846408479",
+        "addr:city": "栃木県小山市中央町３丁目６−７",
+        "addr:province": "栃木県",
+        "air_conditioning": "yes",
+        "leisure": "amusement_arcade",
+        "name": "namcoステーション",
+        "opening_hours": "10:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8053738,
+          36.3127615
+        ]
+      },
+      "id": "node/6846408479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6926073710",
+        "addr:block_number": "103",
+        "addr:city": "横浜市",
+        "addr:housenumber": "2",
+        "addr:neighbourhood": "3",
+        "addr:postcode": "231-0063",
+        "addr:province": "神奈川県",
+        "addr:quarter": "花咲町",
+        "addr:suburb": "中区",
+        "leisure": "amusement_arcade",
+        "name": "JFlight",
+        "note": "A320 Flight Simulator",
+        "operator": "JFlight",
+        "website": "http://jflight.jp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6286043,
+          35.4520569
+        ]
+      },
+      "id": "node/6926073710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6926374706",
+        "leisure": "amusement_arcade",
+        "name": "ストライクス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2737168,
+          34.3619226
+        ]
+      },
+      "id": "node/6926374706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6943084137",
+        "leisure": "amusement_arcade",
+        "name": "ソユーゲームフィールド"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2669897,
+          34.3796527
+        ]
+      },
+      "id": "node/6943084137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7039846501",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "APINA",
+        "opening_hours": "PH,Mo-Su 10:00-24:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1868418,
+          36.6454766
+        ]
+      },
+      "id": "node/7039846501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083429823",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1891771,
+          35.612503
+        ]
+      },
+      "id": "node/7083429823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083429842",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1887911,
+          35.6123526
+        ]
+      },
+      "id": "node/7083429842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083429852",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1891992,
+          35.6122669
+        ]
+      },
+      "id": "node/7083429852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7086170466",
+        "leisure": "amusement_arcade",
+        "name": "タイトーFステーション 八戸店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4906126,
+          40.5092599
+        ]
+      },
+      "id": "node/7086170466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7127428157",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:セガ エンタテインメント",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.9559019,
+          36.2325399
+        ]
+      },
+      "id": "node/7127428157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7142180415",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.1227306,
+          34.7753005
+        ]
+      },
+      "id": "node/7142180415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7196075684",
+        "addr:block_number": "9",
+        "addr:city": "広島市",
+        "addr:housenumber": "30",
+        "addr:postcode": "730-0035",
+        "addr:province": "広島県",
+        "addr:quarter": "本通",
+        "addr:suburb": "中区",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "branch": "広島本通",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:セガ エンタテインメント",
+        "leisure": "amusement_arcade",
+        "level": "-1;0",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ",
+        "website": "https://tempo.sega.jp/am/Hondori/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.460853,
+          34.3925016
+        ]
+      },
+      "id": "node/7196075684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7221558306",
+        "leisure": "amusement_arcade",
+        "name": "THE 3RD PLANET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.014001,
+          36.3190889
+        ]
+      },
+      "id": "node/7221558306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7235658866",
+        "leisure": "amusement_arcade",
+        "name": "ウェアハウス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6860632,
+          35.9411022
+        ]
+      },
+      "id": "node/7235658866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7236168202",
+        "leisure": "amusement_arcade",
+        "name": "ゲームファンタジアン岡崎店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.16005,
+          34.9736938
+        ]
+      },
+      "id": "node/7236168202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7289015887",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "モーリーファンタジー"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4665158,
+          35.4342359
+        ]
+      },
+      "id": "node/7289015887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7512323333",
+        "leisure": "amusement_arcade",
+        "name": "淡路棋院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5177921,
+          34.7388874
+        ]
+      },
+      "id": "node/7512323333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7559921935",
+        "leisure": "amusement_arcade",
+        "level": "0;1;2",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6123132,
+          35.5999987
+        ]
+      },
+      "id": "node/7559921935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7597259385",
+        "leisure": "amusement_arcade",
+        "level": "2;3",
+        "name": "セガワールドアポロ",
+        "name:en": "SEGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5117235,
+          34.6464674
+        ]
+      },
+      "id": "node/7597259385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7607443184",
+        "leisure": "amusement_arcade",
+        "name": "GIGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.1035435,
+          34.6235086
+        ]
+      },
+      "id": "node/7607443184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7615827048",
+        "brand": "ナムコ",
+        "brand:en": "NAMCO",
+        "brand:ja": "ナムコ",
+        "brand:wikidata": "Q309996",
+        "brand:wikipedia": "ja:バンダイナムコアミューズメント",
+        "leisure": "amusement_arcade",
+        "name": "ナムコ",
+        "name:en": "NAMCO",
+        "name:ja": "ナムコ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.8122313,
+          35.5551028
+        ]
+      },
+      "id": "node/7615827048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7616781930",
+        "leisure": "amusement_arcade",
+        "name": "キッズパーク"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.8148697,
+          35.5448463
+        ]
+      },
+      "id": "node/7616781930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7653146568",
+        "leisure": "amusement_arcade",
+        "name": "GiGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4469738,
+          35.543843
+        ]
+      },
+      "id": "node/7653146568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7656396948",
+        "leisure": "amusement_arcade",
+        "name": "GIGO5号館"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770659,
+          35.6987515
+        ]
+      },
+      "id": "node/7656396948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7693724551",
+        "leisure": "amusement_arcade",
+        "level": "1",
+        "name": "Gパラ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5111901,
+          34.6422139
+        ]
+      },
+      "id": "node/7693724551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7695307121",
+        "leisure": "amusement_arcade",
+        "name": "テクモピア"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9005829,
+          36.5742314
+        ]
+      },
+      "id": "node/7695307121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7698425122",
+        "leisure": "amusement_arcade",
+        "name": "ベガジオ 美しが丘店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.462855,
+          42.9808698
+        ]
+      },
+      "id": "node/7698425122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7816794854",
+        "addr:block_number": "14",
+        "addr:city": "町田市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "2丁目",
+        "addr:postcode": "194-0013",
+        "addr:province": "東京都",
+        "addr:quarter": "原町田",
+        "leisure": "amusement_arcade",
+        "name": "町田将棋愛好会",
+        "operator": "町田将棋愛好会",
+        "phone": "+81-42-725-6230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4541034,
+          35.5404599
+        ]
+      },
+      "id": "node/7816794854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843970878",
+        "addr:block_number": "1",
+        "addr:city": "浜松市",
+        "addr:housenumber": "2",
+        "addr:postcode": "430-0933",
+        "addr:province": "静岡県",
+        "addr:quarter": "鍛治町",
+        "addr:suburb": "中区",
+        "leisure": "amusement_arcade",
+        "name": "XCUBE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7315212,
+          34.7028088
+        ]
+      },
+      "id": "node/7843970878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7850149929",
+        "leisure": "amusement_arcade",
+        "name": "GAME IMMIGRANT?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6144751,
+          35.6005456
+        ]
+      },
+      "id": "node/7850149929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926847302",
+        "leisure": "amusement_arcade",
+        "name": "アミューズメントPLABI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6785008,
+          36.6166675
+        ]
+      },
+      "id": "node/7926847302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7936698568",
+        "leisure": "amusement_arcade",
+        "name": "GAME PANIC堺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4472062,
+          34.5977396
+        ]
+      },
+      "id": "node/7936698568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7961272053",
+        "leisure": "amusement_arcade",
+        "level": "3",
+        "name": "モーリーファンタジーf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5578566,
+          34.8098416
+        ]
+      },
+      "id": "node/7961272053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983266591",
+        "leisure": "amusement_arcade",
+        "name": "The 3rd Planet",
+        "name:ja": "サードプラネット"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7378143,
+          31.7411723
+        ]
+      },
+      "id": "node/7983266591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8200255999",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "brand:wikipedia": "ja:タイトー",
+        "leisure": "amusement_arcade",
+        "level": "0;1;2;3;4",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション",
+        "source": "survey",
+        "website": "https://www.taito.co.jp/store/00001749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4560269,
+          34.3940206
+        ]
+      },
+      "id": "node/8200255999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8200513975",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "brand:wikipedia": "ja:タイトー",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0278835,
+          34.0427758
+        ]
+      },
+      "id": "node/8200513975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8202040720",
+        "brand": "ナムコ",
+        "brand:en": "NAMCO",
+        "brand:ja": "ナムコ",
+        "brand:wikidata": "Q309996",
+        "brand:wikipedia": "ja:バンダイナムコアミューズメント",
+        "leisure": "amusement_arcade",
+        "name": "ナムコ",
+        "name:en": "NAMCO",
+        "name:ja": "ナムコ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0157747,
+          34.0621021
+        ]
+      },
+      "id": "node/8202040720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8205308003",
+        "leisure": "amusement_arcade",
+        "name": "ゲームコーナー",
+        "name:en": "Space Train"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5191832,
+          34.0134639
+        ]
+      },
+      "id": "node/8205308003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8209534555",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "キキトコ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.461448,
+          35.4326731
+        ]
+      },
+      "id": "node/8209534555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8494485046",
+        "leisure": "amusement_arcade",
+        "name": "在日米軍針尾ゲーミングルーム(Gamimg room)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7811212,
+          33.0831176
+        ]
+      },
+      "id": "node/8494485046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627358143",
+        "leisure": "amusement_arcade",
+        "name": "ゲームポイント シャトーEX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5339494,
+          34.6978973
+        ]
+      },
+      "id": "node/8627358143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627358144",
+        "leisure": "amusement_arcade",
+        "name": "うたっちゃえ カラオケシャトー"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5341391,
+          34.6980285
+        ]
+      },
+      "id": "node/8627358144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8668800005",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6055154,
+          34.6331605
+        ]
+      },
+      "id": "node/8668800005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8694987185",
+        "addr:block_number": "21",
+        "addr:city": "広島市",
+        "addr:housenumber": "1-7F",
+        "addr:neighbourhood": "6",
+        "addr:postcode": "731-0103",
+        "addr:province": "広島県",
+        "addr:quarter": "緑井",
+        "addr:suburb": "安佐南区",
+        "leisure": "amusement_arcade",
+        "level": "6",
+        "name": "ファンタジア",
+        "name:en": "FANTASIA",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "operator": "株式会社プロバックス",
+        "website": "https://fdp-bowling.wixsite.com/game-fantasia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4868628,
+          34.4733952
+        ]
+      },
+      "id": "node/8694987185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8878597301",
+        "brand": "ナムコ",
+        "brand:en": "NAMCO",
+        "brand:ja": "ナムコ",
+        "brand:wikidata": "Q309996",
+        "brand:wikipedia": "ja:バンダイナムコアミューズメント",
+        "leisure": "amusement_arcade",
+        "level": "0;1;2",
+        "name": "ナムコ",
+        "name:en": "NAMCO",
+        "name:ja": "ナムコ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5002742,
+          34.7027647
+        ]
+      },
+      "id": "node/8878597301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8879083318",
+        "leisure": "amusement_arcade",
+        "level": "-1",
+        "name": "namco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1924886,
+          34.6929398
+        ]
+      },
+      "id": "node/8879083318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8920896084",
+        "leisure": "amusement_arcade",
+        "level": "1",
+        "name": "バナナパーティーガチャ 長浜店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3854589,
+          33.5929507
+        ]
+      },
+      "id": "node/8920896084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8962134224",
+        "leisure": "amusement_arcade",
+        "name": "バギバギ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.9557517,
+          39.6422227
+        ]
+      },
+      "id": "node/8962134224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9061002790",
+        "brand": "アピナ",
+        "brand:en": "Apina",
+        "brand:ja": "アピナ",
+        "brand:wikidata": "Q55385192",
+        "brand:wikipedia": "ja:共和コーポレーション",
+        "leisure": "amusement_arcade",
+        "name": "アピナ",
+        "name:en": "Apina",
+        "name:ja": "アピナ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9718736,
+          38.3270007
+        ]
+      },
+      "id": "node/9061002790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9061455502",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "メトロポリス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.3847306,
+          34.8023614
+        ]
+      },
+      "id": "node/9061455502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9081875345",
+        "leisure": "amusement_arcade",
+        "name": "楽市楽座"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5451249,
+          31.5438216
+        ]
+      },
+      "id": "node/9081875345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9092366621",
+        "addr:block_number": "1",
+        "addr:city": "利府町",
+        "addr:county": "宮城郡",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "3丁目",
+        "addr:postcode": "981-0114",
+        "addr:province": "宮城県",
+        "addr:quarter": "新中道",
+        "leisure": "amusement_arcade",
+        "name": "namco",
+        "phone": "+81  22 766 9402",
+        "website": "https://shinrifu-aeonmall.com/shop/detail/161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9731025,
+          38.3240445
+        ]
+      },
+      "id": "node/9092366621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9092366622",
+        "addr:block_number": "1",
+        "addr:city": "利府町",
+        "addr:county": "宮城郡",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "3丁目",
+        "addr:postcode": "981-0114",
+        "addr:province": "宮城県",
+        "addr:quarter": "新中道",
+        "branch": "イオンモール新利府 南館店",
+        "leisure": "amusement_arcade",
+        "name": "VS PARK",
+        "operator": "バンダイナムコアミューズメント",
+        "phone": "+81 22 369 3218",
+        "website": "https://bandainamco-am.co.jp/others/vspark/shinrifu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9731068,
+          38.3238458
+        ]
+      },
+      "id": "node/9092366622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9116189362",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:GENDA SEGA Entertainment",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7283394,
+          35.5900034
+        ]
+      },
+      "id": "node/9116189362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136704032",
+        "leisure": "amusement_arcade",
+        "name": "モナコ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5443026,
+          35.6511988
+        ]
+      },
+      "id": "node/9136704032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9157799706",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3022228,
+          36.3040628
+        ]
+      },
+      "id": "node/9157799706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9219283267",
+        "leisure": "amusement_arcade",
+        "level": "6",
+        "name": "namco博多バスターミナル店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4198133,
+          33.5915871
+        ]
+      },
+      "id": "node/9219283267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9224019815",
+        "description": "村松旅館ロビー転用",
+        "leisure": "amusement_arcade",
+        "name": "射的場　えびす屋　段べえ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9165277,
+          36.4977495
+        ]
+      },
+      "id": "node/9224019815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9301640775",
+        "leisure": "amusement_arcade",
+        "name": "フィーバー黒磯"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0346921,
+          36.9517985
+        ]
+      },
+      "id": "node/9301640775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9301805865",
+        "leisure": "amusement_arcade",
+        "name": "パチンコ&スロット ZAPP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0434892,
+          36.9587289
+        ]
+      },
+      "id": "node/9301805865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9301852944",
+        "leisure": "amusement_arcade",
+        "name": "Amusement Park ダイナム"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0256786,
+          36.9651461
+        ]
+      },
+      "id": "node/9301852944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9314626384",
+        "leisure": "amusement_arcade",
+        "name": "パチンコ夢屋 黒磯店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0304125,
+          36.9557619
+        ]
+      },
+      "id": "node/9314626384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9333988510",
+        "leisure": "amusement_arcade",
+        "name": "シルクハット本厚木"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3630158,
+          35.4399703
+        ]
+      },
+      "id": "node/9333988510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365151082",
+        "leisure": "amusement_arcade",
+        "level": "4",
+        "name": "CQB Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4965191,
+          34.7579975
+        ]
+      },
+      "id": "node/9365151082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9385832395",
+        "branch": "BiVi仙台店",
+        "leisure": "amusement_arcade",
+        "level": "1",
+        "name": "ザ･サードプラネット",
+        "name:en": "THE 3RD PLANET",
+        "name:ja": "ザ･サードプラネット",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "operator": "サードプラネット",
+        "website": "https://3rd-planet.jp/shop/bivi-sendai/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8833741,
+          38.2610795
+        ]
+      },
+      "id": "node/9385832395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9389718961",
+        "addr:floor": "2",
+        "leisure": "amusement_arcade",
+        "name": "Silk Hat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7272951,
+          35.5891209
+        ]
+      },
+      "id": "node/9389718961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9401720638",
+        "access": "customers",
+        "addr:city": "八街市",
+        "addr:housenumber": "301",
+        "addr:postcode": "289-1104",
+        "addr:province": "千葉県",
+        "addr:quarter": "文違",
+        "brand": "モーリーファンタジー",
+        "brand:en": "Molly Fantasy",
+        "brand:ja": "モーリーファンタジー",
+        "brand:wikidata": "Q92437201",
+        "leisure": "amusement_arcade",
+        "name": "モーリーファンタジー",
+        "name:en": "Molly Fantasy",
+        "name:ja": "モーリーファンタジー"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.310975,
+          35.6812829
+        ]
+      },
+      "id": "node/9401720638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404028088",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "brand:wikipedia": "ja:GENDA SEGA Entertainment",
+        "leisure": "amusement_arcade",
+        "name": "クラブセガ",
+        "name:en": "Club Sega",
+        "name:ja": "クラブセガ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3233856,
+          35.7792603
+        ]
+      },
+      "id": "node/9404028088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404247788",
+        "leisure": "amusement_arcade",
+        "name": "ソーユー"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9734538,
+          38.5991026
+        ]
+      },
+      "id": "node/9404247788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9448822850",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8272713,
+          38.2978731
+        ]
+      },
+      "id": "node/9448822850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9491930562",
+        "leisure": "amusement_arcade",
+        "level": "3;4",
+        "name": "ATCあそびマーレ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4110083,
+          34.6379836
+        ]
+      },
+      "id": "node/9491930562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9498222286",
+        "leisure": "amusement_arcade",
+        "name": "群馬レジャーランド藤岡店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0716697,
+          36.2745318
+        ]
+      },
+      "id": "node/9498222286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502630815",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6018204,
+          40.6666312
+        ]
+      },
+      "id": "node/9502630815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9568802310",
+        "leisure": "amusement_arcade",
+        "name": "ムー大陸"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1908345,
+          36.2470989
+        ]
+      },
+      "id": "node/9568802310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9589548413",
+        "leisure": "amusement_arcade",
+        "level": "1",
+        "name": "BRAVO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4953215,
+          34.757424
+        ]
+      },
+      "id": "node/9589548413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604630537",
+        "brand": "セガ",
+        "leisure": "amusement_arcade",
+        "name": "セガ幕張",
+        "name:en": "SEGA Makuhari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0424671,
+          35.6501324
+        ]
+      },
+      "id": "node/9604630537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9611989582",
+        "leisure": "amusement_arcade",
+        "name": "有楽会館 黒磯店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0669209,
+          36.9645326
+        ]
+      },
+      "id": "node/9611989582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9635041805",
+        "leisure": "amusement_arcade",
+        "name": "ピンクボム　藤岡店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0780187,
+          36.2517643
+        ]
+      },
+      "id": "node/9635041805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9635184958",
+        "leisure": "amusement_arcade",
+        "name": "ゲームパーク"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6045206,
+          35.7428018
+        ]
+      },
+      "id": "node/9635184958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9692611391",
+        "check_date": "2022-11-03",
+        "leisure": "amusement_arcade",
+        "level": "0",
+        "name": "PLAY STATION NAVEL",
+        "opening_hours": "Mo-Su 09:30-23:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3541572,
+          34.7425128
+        ]
+      },
+      "id": "node/9692611391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722368481",
+        "leisure": "amusement_arcade",
+        "name": "FUNFUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0541504,
+          36.9532647
+        ]
+      },
+      "id": "node/9722368481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9724038469",
+        "leisure": "amusement_arcade",
+        "name": "マルハン黒磯店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0546393,
+          36.9522695
+        ]
+      },
+      "id": "node/9724038469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9730047546",
+        "leisure": "amusement_arcade",
+        "name": "ザリガニ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5057614,
+          34.6534094
+        ]
+      },
+      "id": "node/9730047546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9740954170",
+        "addr:block_number": "7",
+        "addr:city": "仙台市",
+        "addr:housenumber": "13",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "980-0021",
+        "addr:province": "宮城県",
+        "addr:quarter": "中央",
+        "addr:suburb": "青葉区",
+        "branch": "仙台名掛丁店",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション",
+        "opening_hours": "Mo-Su 09:00-24:00",
+        "phone": "+81 22 215 1664",
+        "website": "https://www.taito.co.jp/store/00001170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8792322,
+          38.2619317
+        ]
+      },
+      "id": "node/9740954170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9796129027",
+        "leisure": "amusement_arcade",
+        "name": "ゲーム半田メトロポリス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9218618,
+          34.8745992
+        ]
+      },
+      "id": "node/9796129027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9880819679",
+        "addr:city": "旭川市",
+        "addr:neighbourhood": "7丁目",
+        "addr:postcode": "070-0030",
+        "addr:province": "北海道",
+        "addr:quarter": "宮下通",
+        "leisure": "amusement_arcade",
+        "level": "3",
+        "name": "ソユーゲームフィールド"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3577665,
+          43.7641988
+        ]
+      },
+      "id": "node/9880819679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9892845482",
+        "description": "レーシングシミュレーター屋",
+        "leisure": "amusement_arcade",
+        "name": "DareDemoRacer",
+        "name_alt": "ダレデモレーサー"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7705537,
+          35.7005687
+        ]
+      },
+      "id": "node/9892845482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9916988373",
+        "leisure": "amusement_arcade",
+        "name": "スマートボール"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4321198,
+          36.7346523
+        ]
+      },
+      "id": "node/9916988373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9931815708",
+        "contact:twitter": "https://twitter.com/GiGO_koshigaya",
+        "internet_access": "no",
+        "leisure": "amusement_arcade",
+        "name": "GiGO",
+        "opening_hours": "10:00-20:00",
+        "operator": "GENDA GiGO Entertainment",
+        "phone": "+81 48 940 7116",
+        "toilets": "yes",
+        "website": "https://tempo.gendagigo.jp",
+        "wheelchair": "yes",
+        "wikipedia": "ja:GENDA GiGO Entertainment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7931974,
+          35.8751275
+        ]
+      },
+      "id": "node/9931815708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9932028074",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "らら",
+        "smoking": "no",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8442009,
+          35.8784364
+        ]
+      },
+      "id": "node/9932028074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9964186036",
+        "alt_name": "セガワールド",
+        "alt_name:en": "Sega World",
+        "brand": "クラブセガ",
+        "brand:en": "Club Sega",
+        "brand:ja": "クラブセガ",
+        "brand:wikidata": "Q7446141",
+        "leisure": "amusement_arcade",
+        "name": "セガワールド",
+        "name:en": "Club Sega",
+        "name:ja": "セガワールド"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4849029,
+          35.9182167
+        ]
+      },
+      "id": "node/9964186036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10036548442",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "ラウンドワン"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3538781,
+          35.3360555
+        ]
+      },
+      "id": "node/10036548442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10095172266",
+        "leisure": "amusement_arcade",
+        "name": "セガ海田",
+        "name:en": "SEGA_Kaita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5337476,
+          34.3676047
+        ]
+      },
+      "id": "node/10095172266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117757578",
+        "leisure": "amusement_arcade",
+        "name": "安城メトロポリス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0973551,
+          34.95513
+        ]
+      },
+      "id": "node/10117757578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10120440600",
+        "check_date": "2022-10-22",
+        "leisure": "amusement_arcade",
+        "name": "Game! Medal Arcade Video",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700695,
+          35.52951
+        ]
+      },
+      "id": "node/10120440600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10132699020",
+        "leisure": "amusement_arcade",
+        "name": "Gigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1958038,
+          35.9384937
+        ]
+      },
+      "id": "node/10132699020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10139089449",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.112038,
+          36.0805051
+        ]
+      },
+      "id": "node/10139089449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10164714472",
+        "leisure": "amusement_arcade",
+        "level": "1",
+        "name": "エンジョイパラダイス"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5716648,
+          34.6648504
+        ]
+      },
+      "id": "node/10164714472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10178443084",
+        "leisure": "amusement_arcade",
+        "name": "GiGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4701076,
+          35.5102229
+        ]
+      },
+      "id": "node/10178443084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10178443089",
+        "leisure": "amusement_arcade",
+        "name": "GiGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4711606,
+          35.5082381
+        ]
+      },
+      "id": "node/10178443089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10182453553",
+        "leisure": "amusement_arcade",
+        "name": "コパⅢ",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2726738,
+          35.3681446
+        ]
+      },
+      "id": "node/10182453553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10189051792",
+        "leisure": "amusement_arcade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.4704578,
+          32.5676146
+        ]
+      },
+      "id": "node/10189051792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10216671338",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "leisure": "amusement_arcade",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8350724,
+          34.2427951
+        ]
+      },
+      "id": "node/10216671338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10246429553",
+        "leisure": "amusement_arcade",
+        "name": "アミパラ 丸亀店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8209115,
+          34.2846893
+        ]
+      },
+      "id": "node/10246429553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271342785",
+        "brand": "タイトーステーション",
+        "brand:en": "Taito Station",
+        "brand:ja": "タイトーステーション",
+        "brand:wikidata": "Q1054844",
+        "leisure": "amusement_arcade",
+        "level": "4",
+        "name": "タイトーステーション",
+        "name:en": "Taito Station",
+        "name:ja": "タイトーステーション"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4109791,
+          33.589176
+        ]
+      },
+      "id": "node/10271342785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271365974",
+        "addr:block_number": "2",
+        "addr:city": "横浜市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "2",
+        "addr:postcode": "231-0001",
+        "addr:province": "神奈川県",
+        "addr:quarter": "新港",
+        "addr:suburb": "中区",
+        "anime": "shop",
+        "branch": "横浜",
+        "leisure": "amusement_arcade",
+        "level": "2",
+        "name": "バンダイナムコ Cross Store",
+        "name:en": "Bandai Namco Cross Store",
+        "name:ja": "バンダイナムコ Cross Store",
+        "opening_date": "2022-07-07",
+        "opening_hours": "10:30-21:00",
+        "phone": "045-264-9320",
+        "website": "https://bandainamco-am.co.jp/crossstore/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6380731,
+          35.4544106
+        ]
+      },
+      "id": "node/10271365974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271374220",
+        "addr:block_number": "2",
+        "addr:city": "福岡市",
+        "addr:country": "JP",
+        "addr:housename": "キャナルシティオーパ",
+        "addr:housenumber": "74",
+        "addr:neighbourhood": "1",
+        "addr:province": "福岡県",
+        "addr:quarter": "住吉",
+        "addr:suburb": "博多区",
+        "anime": "shop",
+        "branch": "博多",
+        "leisure": "amusement_arcade",
+        "level": "-1",
+        "name": "バンダイナムコ Cross Store",
+        "name:en": "Bandai Namco Cross Store",
+        "name:ja": "バンダイナムコ Cross Store",
+        "opening_date": "2022-07-16",
+        "opening_hours": "10:00-21:00",
+        "phone": "092-409-7562",
+        "website": "https://bandainamco-am.co.jp/crossstore/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4106505,
+          33.5888107
+        ]
+      },
+      "id": "node/10271374220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10275133193",
+        "leisure": "amusement_arcade",
+        "name": "バンバン衣山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7457736,
+          33.8524913
+        ]
+      },
+      "id": "node/10275133193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10290750413",
+        "leisure": "amusement_arcade",
+        "name": "スマイルパーク多度津"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7685045,
+          34.2740348
+        ]
+      },
+      "id": "node/10290750413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10292821101",
+        "leisure": "amusement_arcade",
+        "name": "マルゲ",
+        "name:en": "Maruge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0492154,
+          34.3392551
+        ]
+      },
+      "id": "node/10292821101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10294686811",
+        "leisure": "amusement_arcade",
+        "name": "パスカ",
+        "name:en": "Passca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5125951,
+          34.6440121
+        ]
+      },
+      "id": "node/10294686811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10298151594",
+        "leisure": "amusement_arcade",
+        "name": "アミューズスペース ミール(MiR)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2294733,
+          34.8807962
+        ]
+      },
+      "id": "node/10298151594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10301988917",
+        "internet_access": "no",
+        "leisure": "amusement_arcade",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3840014,
+          33.5462927
+        ]
+      },
+      "id": "node/10301988917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10312327885",
+        "leisure": "amusement_arcade",
+        "name": "ゲームフィールド",
+        "name:en": "Game Field",
+        "name:ja": "ゲームフィールド",
+        "phone": "022-304-2371",
+        "website": "https://shop.soyu-am.jp/sendainagamachi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.876787,
+          38.2259348
+        ]
+      },
+      "id": "node/10312327885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10312922781",
+        "leisure": "amusement_arcade",
+        "level": "3",
+        "name": "アドアーズ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8743831,
+          35.464569
+        ]
+      },
+      "id": "node/10312922781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10313536329",
+        "leisure": "amusement_arcade",
+        "name": "Shinjuku Sports Land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7018444,
+          35.6932436
+        ]
+      },
+      "id": "node/10313536329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10313541064",
+        "leisure": "amusement_arcade",
+        "name": "Natsuge Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703481,
+          35.7136858
+        ]
+      },
+      "id": "node/10313541064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10536645474",
+        "leisure": "amusement_arcade",
+        "name": "Amusement Park MG inn Shido"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1704924,
+          34.3153847
+        ]
+      },
+      "id": "node/10536645474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10539040807",
+        "leisure": "amusement_arcade",
+        "name": "GIGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.574551,
+          35.5445845
+        ]
+      },
+      "id": "node/10539040807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10585412581",
+        "leisure": "amusement_arcade",
+        "name": "ドライブインダルマ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2777746,
+          35.4705185
+        ]
+      },
+      "id": "node/10585412581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10598175517",
+        "leisure": "amusement_arcade",
+        "name": "プレイランド"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1013023,
+          35.5123942
+        ]
+      },
+      "id": "node/10598175517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600358295",
+        "check_date": "2023-02-02",
+        "leisure": "amusement_arcade",
+        "name": "UFOキャッチャー専門店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.18917,
+          34.688379
+        ]
+      },
+      "id": "node/10600358295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600379694",
+        "check_date": "2023-02-02",
+        "description": "2階にUFOキャッチャーあり",
+        "leisure": "amusement_arcade",
+        "name": "中華的射的場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1877066,
+          34.6880429
+        ]
+      },
+      "id": "node/10600379694"
+    }
+  ]
+}
