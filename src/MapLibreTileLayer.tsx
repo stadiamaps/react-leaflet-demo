@@ -26,8 +26,7 @@ export const MapLibreTileLayer = createTileLayerComponent<
 
         const { url, attribution } = props
         if (url != null && url !== prevProps.url) {
-            // TODO: The upstream library doesn't support reactive style changes yet
-            // layer.setUrl(url)
+            layer.getMaplibreMap().setStyle(url)
         }
 
         if (attribution != null && attribution !== prevProps.attribution) {
