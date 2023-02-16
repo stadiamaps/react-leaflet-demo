@@ -20,7 +20,7 @@ data fetched using [this Overpass Turbo query](https://overpass-turbo.eu/s/1r4V)
 
 The default configuration loads raster tiles, but [AppVector.js](src/AppVector.js)
 provides a vector example using the [MapLibre GL Leaflet](https://github.com/maplibre/maplibre-gl-leaflet)
-plugin. You can control which tiles are loaded with the `useVector` flag in [index.js](src/index.js).` 
+plugin. You can control which tiles are loaded with the `useVector` flag in [index.js](src/index.js).
 
 ![img.png](dark.png)
 
