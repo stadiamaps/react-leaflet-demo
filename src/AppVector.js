@@ -3,7 +3,7 @@ import 'leaflet/dist/leaflet.css'
 import {MapContainer, Marker, Popup} from 'react-leaflet'
 import L from 'leaflet'
 import MarkerClusterGroup from "react-leaflet-cluster";
-import {MapLibreTileLayer} from "./MapLibreTileLayer.tsx";
+import {MapLibreTileLayer} from "./MapLibreTileLayer.ts";
 import arcades from './arcades.json'
 
 delete L.Icon.Default.prototype._getIconUrl;
