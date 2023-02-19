@@ -27,7 +27,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://tiles.stadiamaps.com/data/openmaptiles.json?api_key=95f045df-5618-40c5-917a-444ae3e5139c"
+      "url": "https://tiles.stadiamaps.com/data/openmaptiles.json"
     }
   },
   "sprite": "https://tiles.stadiamaps.com/styles/osm-bright/sprite",
